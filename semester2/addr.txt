@@ -1,0 +1,7 @@
+John	0987654321	john@brabrabra
+Jack	0916874523	jack@brabrabra
+Ruri	0954687156	ruri@brabrabra
+Homura	0974318799	homura@brabrabra
+Hitagi	0945678950	hitagi@brabrabra
+Yozora	0912054668	yozora@brabrabra
+Kurisu	0945662001	kurisu@brabrabra
